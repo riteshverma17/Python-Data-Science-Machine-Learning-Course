@@ -1,1 +1,1 @@
-<h1><i>Python-Data-Science-Machine-Learning-Course</i> </h1>
+<h1><i><b>Python-Data-Science-Machine-Learning-Course</i></b> </h1>
